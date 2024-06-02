@@ -13,7 +13,7 @@
   🌱 I’m currently learning <strong>Django (a Python framework), Courses</strong><br>
   👨‍💻 All of my projects are available at <a href="https://github.com/Vaibhav-888">https://github.com/Vaibhav-888</a><br>
   📫 How to reach me: <strong>vaibhav.lohar87@gmail.com</strong><br>
-  ⚡ Fun fact: <strong>I think I'm funny! 😅</strong>
+  ⚡ Fun fact: <strong>I think I'm funny! 😅</strong><br>
   🏓 Hobbies: <strong>I'm a poet!✍️ A chess player,♟️ Athletics,👟 Gym,💪 Typing...⌨️!</strong>
 </p>
 
