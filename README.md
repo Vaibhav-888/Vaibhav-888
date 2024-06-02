@@ -18,6 +18,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px; border: 1px solid #ccc;"/></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px; border: 1px solid #ccc;"/></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px; border: 1px solid #ccc;"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px; border: 1px solid #ccc;"/></a>
@@ -30,7 +31,6 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px; border: 1px solid #ccc;"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px; border: 1px solid #ccc;"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px; border: 1px solid #ccc;"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px; border: 1px solid #ccc;"/></a>
 </p>
 
 <h3 align="center">Connect with me:</h3>
