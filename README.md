@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there! 👋 I'm Vaibhav Lohar</h1>
-<h3 align="center">A passionate software developer from India.</h3>
+<h3 align="center">A software developer from India.</h3>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/09/c7/4c/09c74c130718ce11e07c2d16c558e116.gif" alt="Focusing" width="400" height="350" style="display: inline-block;">
