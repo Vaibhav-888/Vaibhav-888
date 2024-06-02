@@ -1,4 +1,4 @@
-<img src="github-header-image (6).png" width="750" height="300">
+<img src="github-header-image (6).png" width="800" height="300">
 
 <h1 align="center">Hi there!👋, I'm Vaibhav Lohar</h1>
 <h3 align="center">A passionate software developer from India.</h3>
