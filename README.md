@@ -1,4 +1,6 @@
-<img src="github-header-image (6).png" align='centre' width="800" height="300">
+<div style="text-align: center;">
+  <img src="github-header-image (6).png" alt="Banner Image" style="max-width: 100%; height: auto;">
+</div>
 
 <h1 align="center">Hi there!👋, I'm Vaibhav Lohar</h1>
 <h3 align="center">A passionate software developer from India.</h3>
