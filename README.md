@@ -15,6 +15,7 @@
   📫 How to reach me: <strong>vaibhav.lohar87@gmail.com</strong><br>
   ⚡ Fun fact: <strong>I think I'm funny! 😅</strong><br>
   🏓 Hobbies: <strong>I'm a poet✍️, A chess player♟️, Athletics👟, Gym💪, Typing...⌨️!</strong>
+  👨‍💼 Resume: <a href="https://github.com/Vaibhav-888/Vaibhav_Lohar_Resume_2025.git">Vaibhav_Lohar_Resume_2025.git</a><br>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
