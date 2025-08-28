@@ -10,11 +10,11 @@
 </div>
 
 <p align="center">
-  🌱 I’m currently learning <strong>Flask (a Python framework), Courses</strong><br>
+  🌱 I’m currently learning <strong>FastAPI (a Python framework), Courses</strong><br>
   👨‍💻 All of my projects are available at <a href="https://github.com/Vaibhav-888">https://github.com/Vaibhav-888</a><br>
   📫 How to reach me: <strong>vaibhav.lohar87@gmail.com</strong><br>
   ⚡ Fun fact: <strong>I think I'm funny! 😅</strong><br>
-  🏓 Hobbies: <strong>I'm a poet✍️, A chess player♟️, Athletics👟, Gym💪, Typing...⌨️!</strong>
+  🏓 Hobbies: <strong>I'm a poet✍️, A chess player♟️, Athletics👟, Gym💪, Smartphone Tech📱, Typing...⌨️!</strong>
   👨‍💼 Resume: <a href="https://github.com/Vaibhav-888/Vaibhav_Lohar_Resume_2025.git">Vaibhav_Lohar_Resume_2025.git</a><br>
 </p>
 
@@ -22,7 +22,8 @@
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px; border: 1px solid #ccc;"/></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px; border: 1px solid #ccc;"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px; border: 1px solid #ccc;"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px; border: 1px solid #ccc;"/></a>
+<!--   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px; border: 1px solid #ccc;"/></a> -->
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px; border: 1px solid #ccc;"/></a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px; border: 1px solid #ccc;"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px; border: 1px solid #ccc;"/></a>
