@@ -17,7 +17,7 @@
   🏓 Hobbies: <strong>I'm a poet✍️, A chess player♟️, Athletics👟, Gym💪, Smartphone Tech📱, Typing...⌨️!</strong>
   👨‍💼 Resume: <a href="https://github.com/Vaibhav-888/Vaibhav_Lohar_Resume_2026/blob/main/Vaibhav_Lohar_Software_Engg_Resume_2026.pdf">Vaibhav_Lohar_Software_Engg_Resume_2026</a><br>
   📥 [Download Resume (PDF)]: <a
-href="https://raw.githubusercontent.com/Vaibhav-888/Vaibhav_Lohar_Resume_2026/main/Vaibhav_Lohar_Software_Engg_Resume_2026.pdf"></a>
+href="https://github.com/Vaibhav-888/Vaibhav_Lohar_Resume_2026/blob/main/Vaibhav_Lohar_Software_Engg_Resume_2026.pdf"></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
