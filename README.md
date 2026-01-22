@@ -16,7 +16,8 @@
   ⚡ Fun fact: <strong>I think I'm funny! 😅</strong><br>
   🏓 Hobbies: <strong>I'm a poet✍️, A chess player♟️, Athletics👟, Gym💪, Smartphone Tech📱, Typing...⌨️!</strong> <br>
   👨‍💼 Resume: <a href="https://github.com/Vaibhav-888/Vaibhav_Lohar_Resume_2026/blob/main/Vaibhav_Lohar_Software_Engg_Resume_2026.pdf">Vaibhav_Lohar_Software_Engg_Resume_2026</a><br><a
-href="https://raw.githubusercontent.com/Vaibhav-888/Vaibhav_Lohar_Resume_2026/main/Vaibhav_Lohar_Software_Engg_Resume_2026.pdf">📥 [Download Resume (PDF)]</a>
+href="https://raw.githubusercontent.com/Vaibhav-888/Vaibhav_Lohar_Resume_2026/main/Vaibhav_Lohar_Software_Engg_Resume_2026.pdf">📥 [Download Resume (PDF)]</a><br>
+  🗣️ Communication Languages: 1. English (Profesional) 2. German (Elementary) 3. Hindi (Professional) 4. Gujarati (Native/Bilinguial) 5. Marathi (Professional)
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
