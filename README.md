@@ -15,8 +15,8 @@
   📫 How to reach me: <strong>vaibhav.lohar87@gmail.com</strong><br>
   ⚡ Fun fact: <strong>I think I'm funny! 😅</strong><br>
   🏓 Hobbies: <strong>I'm a poet✍️, A chess player♟️, Athletics👟, Gym💪, Smartphone Tech📱, Typing...⌨️!</strong> <br>
-  👨‍💼 Resume: <a href="https://github.com/Vaibhav-888/Vaibhav_Lohar_Resume_2026/blob/main/Vaibhav_Lohar_Software_Engg_Resume_2026.pdf">Vaibhav_Lohar_Software_Engg_Resume_2026</a><br><a
-href="https://raw.githubusercontent.com/Vaibhav-888/Vaibhav_Lohar_Resume_2026/main/Vaibhav_Lohar_Software_Engg_Resume_2026.pdf">📥 [Download Resume (PDF)]</a><br>
+  👨‍💼 Resume: <a href="https://github.com/Vaibhav-888/Vaibhav_Lohar_Resume_2026/blob/main/Vaibhav_Lohar_Software_Engineer_Resume_2026.pdf">Vaibhav_Lohar_Software_Engg_Resume_2026</a><br><a
+href="https://raw.githubusercontent.com/Vaibhav-888/Vaibhav_Lohar_Resume_2026/main/Vaibhav_Lohar_Software_Engineer_Resume_2026.pdf">📥 [Download Resume (PDF)]</a><br>
  🗣️Languages: 1. English (Professional) 2. German (Elementary) 3. Hindi (Professional) 4. Gujarati (Native) 5. Marathi (Professional)
 </p>
 
